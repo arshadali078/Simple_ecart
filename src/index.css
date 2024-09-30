@@ -1,0 +1,16 @@
+.resister-raw{
+    margin-top:5px;
+    margin-left:300px;
+}
+.resister-raw1{
+    margin-top:5px;
+    margin-left:200px;
+}
+.card-img-top {
+    transition: transform 0.3s ease;
+  }
+  
+  .card-img-top:hover {
+    transform: scale(1.05);
+  }
+  
